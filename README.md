@@ -9,6 +9,7 @@ Repositório da planilha de custos e precificação da Compsis Sistemas
 
 ### Dados Banco PostgreSQL 
 ### IP: 10.0.61.0 
+### Porta: 5432
 ### Banco: precificacao 
 ### Usuário: precificacao
 ### Senha: Pr3ciF1cAca0Xml4
