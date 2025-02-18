@@ -137,9 +137,3 @@ CREATE TABLE dbo.COMPSIS_PERFIS (
     PRODUTOS_CLIENTE nvarchar(50) NULL,
     DRE nvarchar(50) NULL
 );
-
--- Tabela: COMPSIS_REFERENCIA
-CREATE TABLE dbo.COMPSIS_REFERENCIA (
-    CODIGO nvarchar(50) NULL,
-    DESCRICAO nvarchar(100) NULL,
-    CUSTO nvarchar(50)
